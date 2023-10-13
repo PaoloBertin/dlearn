@@ -1,0 +1,9 @@
+### VS Code ###
+.vscode/
+bin/
+build/
+build-debug/
+build-release/
+data/
+tests/
+
